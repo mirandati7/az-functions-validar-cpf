@@ -1,4 +1,4 @@
-# Microsserviço Serverless para Validação de CPF
+# Serviço  Serverless para Validação de CPF - Azure
 
 Este é um serviço desenvolvido em Python utilizando o **Azure Functions** para realizar a validação de CPF. Ele utiliza uma arquitetura **serverless**, garantindo escalabilidade e eficiência no processamento de requisições.
 
